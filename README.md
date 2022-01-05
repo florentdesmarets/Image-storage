@@ -1,2 +1,2 @@
 # Image-storage
-storage for image for all site i make
+storage of images for all Website i make
